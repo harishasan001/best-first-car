@@ -19,7 +19,7 @@ st.title('Data Science Example EDA')
 st.write('You should add your plots and code to this page, using the code we have as inspiration to get started. I created a sample dataset below using numpy and pandas to show you how to display tables and graphs.')
 st.markdown("""---""")
 #generate random data for my example dataframe -- howto: https://stackoverflow.com/questions/32752292/how-to-create-a-dataframe-of-random-integers-with-pandas
-df = pd.read_csv("car_data.csv")
+df = pd.read_csv("FINAL_SPINNY_900.csv")
 
 #CLEANING
 #Removing commas in Price Column
