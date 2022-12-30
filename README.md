@@ -1,4 +1,4 @@
-#Welcome to the AI Camp Creative Coders team!
+# Welcome to the AI Camp Creative Coders team!
 
 This repo documents all the work from a one week training camp led at AI Camp. The focus of the camp was on conducting EDA on a dataset of used car resales. The students were taught through the mini project in the EDA_mini_project.ipynb file and were able to apply their knowledge to their individual work, which can be found in the individual-work folder. The final EDA was completed by combining the individual work in the Final_EDA.ipynb file.
 
