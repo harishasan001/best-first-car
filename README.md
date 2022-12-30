@@ -8,11 +8,13 @@ To keep everything organized and on track, we used the live Project_Plan.md file
 
 At the end of the camp, the students put their newfound skills to the test by building a streamlit webapp. The code for the app can be found in the main.py file and the requirements are listed in the requirements.txt file. 
 
-You can check out the finished product at the following link: https://harishasan001-ai-camp-webapp-main-swpydr.streamlit.app/.
+You can check out the finished product at the following link: https://harishasan001-ai-camp-webapp-main-swpydr.streamlit.app/
 
 The demo presenatation is also located in the AI Camp Creative Coders Demo pdf file
 
 We hope you find all the resources and work in this repo useful!
 
-AI Camp Data Science Instructor Haris Hasan
+\- AI Camp Data Science Instructor Haris Hasan
 
+--------
+This repo includes work done by the following AI Camp Students: Alexandra Ivanova, Jayson Kim, Odin Hill, Spencer Gilleran, and Teddy Schwartz.
